@@ -20,37 +20,37 @@ O objetivo é responder perguntas de negócio utilizando SQL no Databricks e vis
 
 ## 1. Quais estados apresentam o maior preço médio dos combustíveis em 2025?
 
-![Estados Mais Caros](imagens/01_estados_mais_caros.png)
+![Estados Mais Caros](img/01_estados_mais_caros.png)
 
 ---
 
 ## 2. Quais estados apresentam o menor preço médio dos combustíveis em 2025?
 
-![Estados Mais Baratos](imagens/02_estados_mais_baratos.png)
+![Estados Mais Baratos](img/02_estados_mais_baratos.png)
 
 ---
 
 ## 3. Qual o preço médio de cada tipo de combustível?
 
-![Preço Médio por Produto](imagens/03_preco_medio_produto.png)
+![Preço Médio por Produto](img/03_preco_medio_produto.png)
 
 ---
 
 ## 4. Em quais estados a diferença média entre Gasolina e Etanol é maior?
 
-![Gasolina vs Etanol](imagens/04_gasolina_vs_etanol.png)
+![Gasolina vs Etanol](img/04_gasolina_vs_etanol.png)
 
 ---
 
 ## 5. Como evoluiu o preço médio dos combustíveis ao longo de 2025?
 
-![Evolução Mensal](imagens/05_evolucao_mensal.png)
+![Evolução Mensal](img/05_evolucao_mensal.png)
 
 ---
 
 ## 6. Quais bandeiras apresentam os maiores preços médios dos combustíveis?
 
-![Preço Médio por Bandeira](imagens/06_bandeiras_mais_caras.png)
+![Preço Médio por Bandeira](img/06_bandeiras_mais_caras.png)
 
 ---
 
