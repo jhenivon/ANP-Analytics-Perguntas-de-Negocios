@@ -2,18 +2,20 @@
 
 # ANP Analytics
 
-Projeto de Analytics desenvolvido a partir da tabela `gold_combustivel`, produzida no projeto ETL_Preco_Combustivel_SQL.
+Projeto de Analytics foi desenvolvido a partir da tabela `gold_combustivel`, produzida no projeto ETL_Preco_Combustivel_SQL.**(https://github.com/jhenivon/ETL-ANP-PRECOS-COMBUSTIVEIS)**
 
-O objetivo é responder perguntas de negócio utilizando SQL no Databricks e visualizar os resultados através de gráficos.
+O objetivo é responder perguntas de negócio utilizando SQL no Databricks Edition e visualizar os resultados através de gráficos.
+
+Os gráficos foram printados no README porque os notebooks databricks não conseguem reproduzir os graficos ao serem publicados via notebook no Github
 
 ## Perguntas Respondidas
 
-1. Quais estados apresentam o maior preço médio dos combustíveis em 2025?
-2. Quais estados apresentam o menor preço médio dos combustíveis em 2025?
-3. Como os preços evoluíram ao longo do tempo em 2025??
-4. Qual combustível possui o maior preço médio?
-5. Em quais estados a diferença média entre Gasolina e Etanol é maior?
-6 Quais bandeiras apresentam os maiores preços médios dos combustíveis em 2025?
+**1. Quais estados apresentam o maior preço médio dos combustíveis em 2025?**
+**2. Quais estados apresentam o menor preço médio dos combustíveis em 2025?**
+**3. Como os preços evoluíram ao longo do tempo em 2025??**
+**4. Qual combustível possui o maior preço médio?**
+**5. Em quais estados a diferença média entre Gasolina e Etanol é maior?**
+**6 Quais bandeiras apresentam os maiores preços médios dos combustíveis em 2025?**
 
 ---
 
@@ -58,3 +60,14 @@ O objetivo é responder perguntas de negócio utilizando SQL no Databricks e vis
 As análises demonstraram diferenças significativas nos preços médios dos combustíveis entre estados, produtos e bandeiras, além de permitir acompanhar a evolução dos preços ao longo do período analisado.
 
 Todas as consultas foram executadas sobre a camada Gold, construída previamente no projeto ETL utilizando a arquitetura Medalhão (Bronze → Silver → Gold).
+
+## Atenção
+
+**Esse projeto pode sofrer alterações a qualquer momento sem aviso prévio com intuito de aplicar melhorias**
+## 👤 Autor
+
+**Genivon Silva**
+
+**Engenheiro de Dados**
+- 💻 GitHub: [Genivon Silva](https://github.com/jhenivon)
+- 🔗 LinkedIn: [Genivon Silva](https://www.linkedin.com/in/genivon-silva-69bb9b9b/)
