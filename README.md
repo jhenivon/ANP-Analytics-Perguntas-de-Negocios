@@ -11,10 +11,15 @@ Os gráficos foram printados no README porque os notebooks databricks não conse
 ## Perguntas Respondidas
 
 **1. Quais estados apresentam o maior preço médio dos combustíveis em 2025?**
+
 **2. Quais estados apresentam o menor preço médio dos combustíveis em 2025?**
+
 **3. Como os preços evoluíram ao longo do tempo em 2025??**
+
 **4. Qual combustível possui o maior preço médio?**
+
 **5. Em quais estados a diferença média entre Gasolina e Etanol é maior?**
+
 **6 Quais bandeiras apresentam os maiores preços médios dos combustíveis em 2025?**
 
 ---
