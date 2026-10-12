@@ -1,28 +1,22 @@
-# 📊 Análises de Negócio
+# 📊  01 - Análises de Negócio
 
-# ANP Analytics
+# 02 - Objetivo do ANP Analytics
 
-Projeto de Analytics foi desenvolvido a partir da tabela `gold_combustivel`, produzida no projeto ETL_Preco_Combustivel_SQL.**(https://github.com/jhenivon/ETL-ANP-PRECOS-COMBUSTIVEIS)**
+Projeto de Analytics foi desenvolvido a partir da tabela `gold_combustivel`, produzida no projeto ETL_Preco_Combustivel_SQL
 
 O objetivo é responder perguntas de negócio utilizando SQL no Databricks Edition e visualizar os resultados através de gráficos.
 
 Os gráficos foram printados no README porque os notebooks databricks não conseguem reproduzir os graficos ao serem publicados via notebook no Github
 
-## Perguntas Respondidas
+## 📌 Nota sobre o projeto de origem
 
-**1. Quais estados apresentam o maior preço médio dos combustíveis em 2025?**
+O projeto ETL responsável pela geração da camada Gold utilizada nestas análises está passando por uma reestruturação, com melhorias na organização e na documentação do repositório.
 
-**2. Quais estados apresentam o menor preço médio dos combustíveis em 2025?**
+Essa reestruturação não altera os dados da camada Gold que fundamentam as análises apresentadas neste projeto.
 
-**3. Como os preços evoluíram ao longo do tempo em 2025??**
+O link para a versão atualizada do ETL será disponibilizado assim que o novo repositório estiver publicado.
 
-**4. Qual combustível possui o maior preço médio?**
-
-**5. Em quais estados a diferença média entre Gasolina e Etanol é maior?**
-
-**6 Quais bandeiras apresentam os maiores preços médios dos combustíveis em 2025?**
-
----
+## 03 - Respondendo a 6 Perguntas analyticas
 
 ## 1. Quais estados apresentam o maior preço médio dos combustíveis em 2025?
 
