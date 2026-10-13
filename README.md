@@ -16,6 +16,8 @@ Essa reestruturação não altera os dados da camada Gold que fundamentam as an�
 
 O link para a versão atualizada do ETL será disponibilizado assim que o novo repositório estiver publicado.
 
+📌 **Nota sobre os dados:** O dataset utilizado neste projeto contém registros referentes exclusivamente ao ano de 2025. Por isso, todas as análises estão delimitadas a esse período.
+
 ## 03 - Respondendo a 6 Perguntas analyticas
 
 ## 1. Quais estados apresentam o maior preço médio dos combustíveis em 2025?
